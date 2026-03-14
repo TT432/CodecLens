@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "io.github.tt432.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "RegistryDataLoaderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

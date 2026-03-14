@@ -1,0 +1,13 @@
+{
+  "itemGroup.codeclens": "Example Mod Tab",
+  "block.codeclens.example_block": "Example Block",
+  "item.codeclens.example_item": "Example Item",
+
+  "codeclens.configuration.title": "Codec Lens Configs",
+  "codeclens.configuration.section.codeclens.common.toml": "Codec Lens Configs",
+  "codeclens.configuration.section.codeclens.common.toml.title": "Codec Lens Configs",
+  "codeclens.configuration.items": "Item List",
+  "codeclens.configuration.logDirtBlock": "Log Dirt Block",
+  "codeclens.configuration.magicNumberIntroduction": "Magic Number Text",
+  "codeclens.configuration.magicNumber": "Magic Number"
+}
